@@ -1,0 +1,20 @@
+{
+  "build_commit": "a9d746e",
+  "channel": "store-beta",
+  "critical": false,
+  "dependencies": {
+    "recorder": ">=1.1.0"
+  },
+  "mandatory": false,
+  "max_config_version": 1,
+  "min_config_version": 1,
+  "min_updater_version": "1.0.0",
+  "module": "ai",
+  "notes": "",
+  "package": "ai-1.2.3.zip",
+  "released_utc": "2026-09-23T01:15:15Z",
+  "schema_version": 1,
+  "sha256": "74cebf95ef8758cdfb839a80a0c99207098175961c3b121eb71dba5cc6ba6f98",
+  "size": 39185,
+  "version": "1.2.3"
+}

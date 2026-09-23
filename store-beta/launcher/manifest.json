@@ -1,0 +1,18 @@
+{
+  "build_commit": "a9d746e",
+  "channel": "store-beta",
+  "critical": false,
+  "dependencies": {},
+  "mandatory": false,
+  "max_config_version": 1,
+  "min_config_version": 1,
+  "min_updater_version": "1.0.0",
+  "module": "launcher",
+  "notes": "",
+  "package": "launcher-1.2.3.zip",
+  "released_utc": "2026-09-23T01:15:15Z",
+  "schema_version": 1,
+  "sha256": "33486ee6cfd042bf6caba8123669b1c026a17c0bd7404d4e7fa9ef4006d21a61",
+  "size": 6545,
+  "version": "1.2.3"
+}
