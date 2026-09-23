@@ -11,10 +11,10 @@
   "min_updater_version": "1.0.0",
   "module": "ai",
   "notes": "",
-  "package": "ai-1.2.4.zip",
-  "released_utc": "2026-09-23T05:18:07Z",
+  "package": "ai-1.2.5.zip",
+  "released_utc": "2026-09-23T05:24:12Z",
   "schema_version": 1,
-  "sha256": "36f3d09b880c289c11f5b6e5d72e257584b2db91e540e17ab7a53a6a4bff94aa",
-  "size": 39187,
-  "version": "1.2.4"
+  "sha256": "baca40904a31d1c2aabb76c8cf09b0e50a28d678911075e113dd4296b1248a3f",
+  "size": 39186,
+  "version": "1.2.5"
 }

@@ -9,10 +9,10 @@
   "min_updater_version": "1.0.0",
   "module": "diagnostics",
   "notes": "",
-  "package": "diagnostics-1.2.4.zip",
-  "released_utc": "2026-09-23T05:18:07Z",
+  "package": "diagnostics-1.2.5.zip",
+  "released_utc": "2026-09-23T05:24:12Z",
   "schema_version": 1,
-  "sha256": "186d283dd7fbb152925999fea9d0a66904d772209c7289036cecf1fd73cf2caf",
-  "size": 8252,
-  "version": "1.2.4"
+  "sha256": "72bff78c64c954c5cb197220d91a4726661c084dcb6289c5c7540ab6fe8c107c",
+  "size": 8250,
+  "version": "1.2.5"
 }

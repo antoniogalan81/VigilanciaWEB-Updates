@@ -9,10 +9,10 @@
   "min_updater_version": "1.0.0",
   "module": "launcher",
   "notes": "",
-  "package": "launcher-1.2.4.zip",
-  "released_utc": "2026-09-23T05:18:07Z",
+  "package": "launcher-1.2.5.zip",
+  "released_utc": "2026-09-23T05:24:12Z",
   "schema_version": 1,
-  "sha256": "fb9ff48bfc88234f096fd422644a2e9302c220e01b071a105b5a3ffa1e8fc80b",
+  "sha256": "01edda8d0f375f472d28d9928310db7ae854ce0e014d7e2a8d9abc8a390556a0",
   "size": 6545,
-  "version": "1.2.4"
+  "version": "1.2.5"
 }
