@@ -1,6 +1,6 @@
 {
   "app_schema_version": 2,
-  "build_commit": "d903dae",
+  "build_commit": "5ab6146",
   "channel": "store-beta",
   "critical": true,
   "dependencies": {},
@@ -10,15 +10,15 @@
   "min_updater_version": "1.0.0",
   "module": "recorder",
   "notes": "",
-  "package": "recorder-1.3.1.zip",
-  "released_utc": "2026-09-23T06:10:12Z",
+  "package": "recorder-1.3.2.zip",
+  "released_utc": "2026-09-23T07:03:37Z",
   "schema_version": 1,
-  "sha256": "bb105d5c98252065bc5672be7c25deeab1158d2652d171338360bfdf4337c402",
-  "size": 137206,
+  "sha256": "1252d9a1dee1cfea21ae81a5b778017d23437649f70bf55b317744a2c96df2e0",
+  "size": 139053,
   "updater": {
     "package": "updater-1.2.0.zip",
     "sha256": "3f37e47269b7f5794c488f793dfc2a4c9ecf11c5548a17079fd78b7186055f25",
     "version": "1.2.0"
   },
-  "version": "1.3.1"
+  "version": "1.3.2"
 }
