@@ -1,5 +1,5 @@
 {
-  "build_commit": "50dcebe",
+  "build_commit": "82f9070",
   "channel": "store-beta",
   "critical": false,
   "dependencies": {},
@@ -9,10 +9,10 @@
   "min_updater_version": "1.0.0",
   "module": "diagnostics",
   "notes": "",
-  "package": "diagnostics-1.5.0.zip",
-  "released_utc": "2026-09-24T15:49:03Z",
+  "package": "diagnostics-1.5.1.zip",
+  "released_utc": "2026-09-24T17:02:39Z",
   "schema_version": 1,
-  "sha256": "5f99d72b5aeac4475c37d1afdeab434e4908966669747f4477b2395b70767816",
-  "size": 8283,
-  "version": "1.5.0"
+  "sha256": "d44176c045d18649e37ab3a0f12a0c50d678b016cfb6096d400160b4298c5178",
+  "size": 8284,
+  "version": "1.5.1"
 }
