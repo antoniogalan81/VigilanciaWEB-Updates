@@ -1,5 +1,5 @@
 {
-  "build_commit": "facf70c",
+  "build_commit": "50dcebe",
   "channel": "store-beta",
   "critical": false,
   "dependencies": {
@@ -11,10 +11,10 @@
   "min_updater_version": "1.0.0",
   "module": "ai",
   "notes": "",
-  "package": "ai-1.4.1.zip",
-  "released_utc": "2026-09-24T12:12:38Z",
+  "package": "ai-1.5.0.zip",
+  "released_utc": "2026-09-24T15:49:03Z",
   "schema_version": 1,
-  "sha256": "7ef49424fdbbeda0f3c09a8d918f5ea435b0ec2f8efadc5378bfb1cd9311d86f",
-  "size": 43553,
-  "version": "1.4.1"
+  "sha256": "b1d86d314ee19781c03bf92865a7b7ee9a59a0392fd7fc60b52c1f65e837f4f7",
+  "size": 43556,
+  "version": "1.5.0"
 }
