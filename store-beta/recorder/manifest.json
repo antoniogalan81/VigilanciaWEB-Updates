@@ -9,16 +9,16 @@
   "min_config_version": 1,
   "min_updater_version": "1.0.0",
   "module": "recorder",
-  "notes": "",
-  "package": "recorder-1.3.8.zip",
+  "notes": "version rota a proposito para probar la vuelta atras",
+  "package": "recorder-1.3.9.zip",
   "released_utc": "2026-09-24T09:19:03Z",
   "schema_version": 1,
-  "sha256": "74a7b05cd3ccf11d917546e6154a6094ea638cc2b72f0ce2cb574a2c3540caac",
-  "size": 153261,
+  "sha256": "a98670967bc958884fe8e2de67d5b7c5f257631d549eea46ed5553d55a261683",
+  "size": 125273,
   "updater": {
     "package": "updater-1.2.0.zip",
     "sha256": "3f37e47269b7f5794c488f793dfc2a4c9ecf11c5548a17079fd78b7186055f25",
     "version": "1.2.0"
   },
-  "version": "1.3.8"
+  "version": "1.3.9"
 }
