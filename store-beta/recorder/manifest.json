@@ -1,6 +1,11 @@
 {
   "app_schema_version": 2,
-  "build_commit": "b4e1525",
+  "bootstrap": {
+    "package": "bootstrap-1.1.0.zip",
+    "sha256": "62070749c910bd1c6cf6f1fbfaccd7ffce8f9a3cdb7b3213077887b338e1a5e4",
+    "version": "1.1.0"
+  },
+  "build_commit": "b0b4622",
   "channel": "store-beta",
   "critical": true,
   "dependencies": {},
@@ -10,15 +15,15 @@
   "min_updater_version": "1.0.0",
   "module": "recorder",
   "notes": "",
-  "package": "recorder-1.3.8.zip",
-  "released_utc": "2026-09-24T09:19:03Z",
+  "package": "recorder-1.4.0.zip",
+  "released_utc": "2026-09-24T11:46:45Z",
   "schema_version": 1,
-  "sha256": "74a7b05cd3ccf11d917546e6154a6094ea638cc2b72f0ce2cb574a2c3540caac",
-  "size": 153261,
+  "sha256": "62336e0b6fd9590bb2806838619728e891e4296093b579c5a84839e067877283",
+  "size": 162164,
   "updater": {
-    "package": "updater-1.2.0.zip",
-    "sha256": "3f37e47269b7f5794c488f793dfc2a4c9ecf11c5548a17079fd78b7186055f25",
-    "version": "1.2.0"
+    "package": "updater-1.3.0.zip",
+    "sha256": "0feb116a135237897804d37643a3e7e98874720076ad31f084d997c9dd6c90f1",
+    "version": "1.3.0"
   },
-  "version": "1.3.8"
+  "version": "1.4.0"
 }
