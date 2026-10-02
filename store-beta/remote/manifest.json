@@ -3,18 +3,18 @@
   "channel": "store-beta",
   "critical": false,
   "dependencies": {
-    "recorder": ">=1.4.0"
+    "recorder": ">=1.6.0"
   },
   "mandatory": false,
   "max_config_version": 1,
   "min_config_version": 1,
   "min_updater_version": "1.0.0",
-  "module": "launcher",
+  "module": "remote",
   "notes": "",
-  "package": "launcher-1.8.0.zip",
-  "released_utc": "2026-10-01T23:18:57Z",
+  "package": "remote-1.8.0.zip",
+  "released_utc": "2026-10-01T23:19:18Z",
   "schema_version": 1,
-  "sha256": "dedeb2cbe586f579581e1a4aaa6619bf1c68c057ae65fcd831231baf92101819",
-  "size": 188490,
+  "sha256": "f034f15c89436b0854f78e8f570fb1c03590fe712bcf59b0dc2c6a6b4b96d781",
+  "size": 81531,
   "version": "1.8.0"
 }
