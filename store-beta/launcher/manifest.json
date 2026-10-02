@@ -1,5 +1,5 @@
 {
-  "build_commit": "e7f2996",
+  "build_commit": "380fd2c",
   "channel": "store-beta",
   "critical": false,
   "dependencies": {
@@ -11,10 +11,10 @@
   "min_updater_version": "1.0.0",
   "module": "launcher",
   "notes": "",
-  "package": "launcher-1.8.0.zip",
-  "released_utc": "2026-10-01T23:18:57Z",
+  "package": "launcher-1.8.1.zip",
+  "released_utc": "2026-10-02T06:53:37Z",
   "schema_version": 1,
-  "sha256": "dedeb2cbe586f579581e1a4aaa6619bf1c68c057ae65fcd831231baf92101819",
-  "size": 188490,
-  "version": "1.8.0"
+  "sha256": "7952debc7433f930376ad6f759fcdc818bedffef2d2c42aa65bbf585c0a19280",
+  "size": 189271,
+  "version": "1.8.1"
 }
