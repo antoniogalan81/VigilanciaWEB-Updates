@@ -14,16 +14,16 @@
   "min_config_version": 1,
   "min_updater_version": "1.0.0",
   "module": "recorder",
-  "notes": "version rota a proposito para probar la vuelta atras",
-  "package": "recorder-1.8.1.zip",
+  "notes": "",
+  "package": "recorder-1.8.0.zip",
   "released_utc": "2026-10-01T23:18:55Z",
   "schema_version": 1,
-  "sha256": "a4a762f7ee4ad099f8e236c1e8daaab11a8f6fb2c6b0fd3d84cacd344cc26565",
-  "size": 140702,
+  "sha256": "8da8c6a7c73f4c4d61fe9b182087b9bcbc5ea2e4c7850bd9696e374d71f62791",
+  "size": 170877,
   "updater": {
     "package": "updater-1.4.0.zip",
     "sha256": "76e5d5885fb861e7eff2169d4a8fd0fffeec6d7bc7baf7e68dbbba653cc884c7",
     "version": "1.4.0"
   },
-  "version": "1.8.1"
+  "version": "1.8.0"
 }
