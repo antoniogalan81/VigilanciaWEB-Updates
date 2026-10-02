@@ -4,11 +4,11 @@
     "ai": "1.8.0",
     "diagnostics": "1.8.0",
     "launcher": "1.9.3",
-    "recorder": "1.9.3",
+    "recorder": "1.9.4",
     "remote": "1.9.2"
   },
   "producto": "VigilanciaGest7",
-  "released_utc": "2026-10-02T10:17:45Z",
+  "released_utc": "2026-10-02T10:28:48Z",
   "schema_version": 1,
-  "version": "1.9.3"
+  "version": "1.9.4"
 }
