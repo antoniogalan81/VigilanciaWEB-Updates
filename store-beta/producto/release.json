@@ -1,0 +1,14 @@
+{
+  "canal": "store-beta",
+  "componentes": {
+    "ai": "1.8.0",
+    "diagnostics": "1.8.0",
+    "launcher": "1.9.2",
+    "recorder": "1.9.2",
+    "remote": "1.9.2"
+  },
+  "producto": "VigilanciaGest7",
+  "released_utc": "2026-10-02T09:38:59Z",
+  "schema_version": 1,
+  "version": "1.9.2"
+}
