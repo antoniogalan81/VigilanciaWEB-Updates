@@ -1,0 +1,29 @@
+{
+  "app_schema_version": 2,
+  "bootstrap": {
+    "package": "bootstrap-1.9.0.zip",
+    "sha256": "057415cfc3b7cc93497f7d166171cf785c524e72b59e30aa93208d09726bfa10",
+    "version": "1.9.0"
+  },
+  "build_commit": "da6e1fd",
+  "channel": "piloto",
+  "critical": true,
+  "dependencies": {},
+  "mandatory": false,
+  "max_config_version": 1,
+  "min_config_version": 1,
+  "min_updater_version": "1.0.0",
+  "module": "recorder",
+  "notes": "",
+  "package": "recorder-1.10.0.zip",
+  "released_utc": "2026-10-07T10:22:59Z",
+  "schema_version": 1,
+  "sha256": "68eb7d10f7d580ccd0f834fb8ba8534b2220855e5d13db7f33e06f0921810a71",
+  "size": 173545,
+  "updater": {
+    "package": "updater-1.6.0.zip",
+    "sha256": "2353c4f862009aca89774415d5e13d817f45b620bb8ba8d1c06d07179874b535",
+    "version": "1.6.0"
+  },
+  "version": "1.10.0"
+}

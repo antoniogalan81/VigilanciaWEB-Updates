@@ -1,0 +1,20 @@
+{
+  "build_commit": "da6e1fd",
+  "channel": "piloto",
+  "critical": false,
+  "dependencies": {
+    "recorder": ">=1.1.0"
+  },
+  "mandatory": false,
+  "max_config_version": 1,
+  "min_config_version": 1,
+  "min_updater_version": "1.0.0",
+  "module": "ai",
+  "notes": "",
+  "package": "ai-1.10.0.zip",
+  "released_utc": "2026-10-07T10:23:03Z",
+  "schema_version": 1,
+  "sha256": "b2986d9c5a87bdecf36bdd6ef77be3d90c64970ce0219ceea89e5aaee687fab5",
+  "size": 51334,
+  "version": "1.10.0"
+}

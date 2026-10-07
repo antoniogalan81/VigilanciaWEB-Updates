@@ -1,0 +1,20 @@
+{
+  "build_commit": "da6e1fd",
+  "channel": "piloto",
+  "critical": false,
+  "dependencies": {
+    "recorder": ">=1.4.0"
+  },
+  "mandatory": false,
+  "max_config_version": 1,
+  "min_config_version": 1,
+  "min_updater_version": "1.0.0",
+  "module": "launcher",
+  "notes": "",
+  "package": "launcher-1.10.0.zip",
+  "released_utc": "2026-10-07T10:23:06Z",
+  "schema_version": 1,
+  "sha256": "caadb6c85fb3346827ed7dc033bfd1b1d7de9f4a88526ea93913ed02d1cb7e01",
+  "size": 223306,
+  "version": "1.10.0"
+}

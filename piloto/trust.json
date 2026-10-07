@@ -1,0 +1,23 @@
+{
+  "actualizado": "2026-09-23T05:11:45Z",
+  "claves": [
+    {
+      "alg": "ECDSA_P256",
+      "desde": "2026-09-22T22:17:02Z",
+      "estado": "activa",
+      "finalidad": "releases",
+      "key_id": "R1",
+      "publica": "RUNTMSAAAADwooY2ICaMtYTv2j4uMrOmg1rCkYDZCAXJJ+XyeTb+y51/LWEI16LiIXGBxKjPSBpThInpouAlctZmO8EWooeM"
+    },
+    {
+      "alg": "ECDSA_P256",
+      "desde": "2026-09-23T05:11:45Z",
+      "estado": "activa",
+      "finalidad": "recovery",
+      "key_id": "X1",
+      "publica": "RUNTMSAAAABWQ+nkcYT2Zdh9QaJvZFIc0lRV1YZMrM9d2O8qWjnxlj6M3bS9yso0qLldOAREeXB/nbFeyW5D5kkttvO3SUnq"
+    }
+  ],
+  "schema": 1,
+  "version": 2
+}

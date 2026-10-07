@@ -1,0 +1,20 @@
+{
+  "build_commit": "da6e1fd",
+  "channel": "piloto",
+  "critical": false,
+  "dependencies": {
+    "recorder": ">=1.6.0"
+  },
+  "mandatory": false,
+  "max_config_version": 1,
+  "min_config_version": 1,
+  "min_updater_version": "1.0.0",
+  "module": "remote",
+  "notes": "",
+  "package": "remote-1.10.0.zip",
+  "released_utc": "2026-10-07T10:23:28Z",
+  "schema_version": 1,
+  "sha256": "2e8c338ce8beaf06d92ae39be9847cc63fbdf2e9819f0919586fc1de6127b9c1",
+  "size": 84207,
+  "version": "1.10.0"
+}
