@@ -1,5 +1,5 @@
 {
-  "build_commit": "da6e1fd",
+  "build_commit": "7cf1541",
   "channel": "piloto",
   "critical": false,
   "dependencies": {
@@ -11,10 +11,10 @@
   "min_updater_version": "1.0.0",
   "module": "ai",
   "notes": "",
-  "package": "ai-1.10.0.zip",
-  "released_utc": "2026-10-07T10:23:03Z",
+  "package": "ai-1.10.1.zip",
+  "released_utc": "2026-10-07T10:33:36Z",
   "schema_version": 1,
-  "sha256": "b2986d9c5a87bdecf36bdd6ef77be3d90c64970ce0219ceea89e5aaee687fab5",
-  "size": 51334,
-  "version": "1.10.0"
+  "sha256": "96b73f6b6fb49f5975651725235b6c1ffd24897d8e2eb13917a6c932198dac21",
+  "size": 51336,
+  "version": "1.10.1"
 }
