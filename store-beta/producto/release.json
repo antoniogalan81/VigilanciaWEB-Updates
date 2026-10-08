@@ -3,12 +3,12 @@
   "componentes": {
     "ai": "1.10.1",
     "diagnostics": "1.8.0",
-    "launcher": "1.10.3",
+    "launcher": "1.10.5",
     "recorder": "1.10.1",
-    "remote": "1.10.4"
+    "remote": "1.10.5"
   },
   "producto": "VigilanciaGest7",
-  "released_utc": "2026-10-08T08:42:50Z",
+  "released_utc": "2026-10-08T09:08:37Z",
   "schema_version": 1,
-  "version": "1.10.4"
+  "version": "1.10.5"
 }
