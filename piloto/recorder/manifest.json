@@ -15,15 +15,15 @@
   "min_updater_version": "1.0.0",
   "module": "recorder",
   "notes": "",
-  "package": "recorder-1.10.2.zip",
-  "released_utc": "2026-10-08T10:51:19Z",
+  "package": "recorder-1.10.6.zip",
+  "released_utc": "2026-10-08T10:55:21Z",
   "schema_version": 1,
-  "sha256": "d5079f29492e53a448d6be7b76221b56aeda467cd1b88abb3dfe6430cc8c2dea",
+  "sha256": "6025b992c7efd9c173414e37c54623a1fd9affc37fc383e393b1a52bee4d3ec9",
   "size": 173766,
   "updater": {
     "package": "updater-1.6.1.zip",
     "sha256": "0a910ec26af3058125e1beb8e72c20986bd45b19ea7d59e710e3a18980add4f7",
     "version": "1.6.1"
   },
-  "version": "1.10.2"
+  "version": "1.10.6"
 }
