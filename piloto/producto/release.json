@@ -2,12 +2,12 @@
   "canal": "piloto",
   "componentes": {
     "ai": "1.10.1",
-    "launcher": "1.10.3",
+    "launcher": "1.10.5",
     "recorder": "1.10.1",
-    "remote": "1.10.4"
+    "remote": "1.10.5"
   },
   "producto": "VigilanciaGest7",
-  "released_utc": "2026-10-08T08:29:53Z",
+  "released_utc": "2026-10-08T09:06:31Z",
   "schema_version": 1,
-  "version": "1.10.4"
+  "version": "1.10.5"
 }
