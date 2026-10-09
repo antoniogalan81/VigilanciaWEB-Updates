@@ -1,5 +1,5 @@
 {
-  "build_commit": "d52401d",
+  "build_commit": "188ef72",
   "channel": "piloto",
   "critical": false,
   "dependencies": {
@@ -11,10 +11,10 @@
   "min_updater_version": "1.0.0",
   "module": "remote",
   "notes": "",
-  "package": "remote-1.11.2.zip",
-  "released_utc": "2026-10-09T20:28:13Z",
+  "package": "remote-1.11.3.zip",
+  "released_utc": "2026-10-09T21:08:41Z",
   "schema_version": 1,
-  "sha256": "44c89ff5d3921cd365f787dc36f95df6aa1e703ded343b1c9496a729927ca611",
-  "size": 122737,
-  "version": "1.11.2"
+  "sha256": "4daceb03d4a480bee7e377b7ba76a6aa5d2e41263c9c8ad136e71204090ae11e",
+  "size": 124337,
+  "version": "1.11.3"
 }
