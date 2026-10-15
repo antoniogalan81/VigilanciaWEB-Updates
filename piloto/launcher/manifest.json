@@ -1,5 +1,5 @@
 {
-  "build_commit": "6db39fc",
+  "build_commit": "66524f7",
   "channel": "piloto",
   "critical": false,
   "dependencies": {
@@ -11,10 +11,10 @@
   "min_updater_version": "1.0.0",
   "module": "launcher",
   "notes": "",
-  "package": "launcher-1.13.0.zip",
-  "released_utc": "2026-10-10T11:25:55Z",
+  "package": "launcher-1.14.0.zip",
+  "released_utc": "2026-10-15T17:18:29Z",
   "schema_version": 1,
-  "sha256": "f9d559a5f80dc783a0d2fe8196293d55da1d5d7e4735fb927dd60a918940aadf",
-  "size": 240132,
-  "version": "1.13.0"
+  "sha256": "fe7f8b3d02b0a49bd0efa25eeca77173ad08930e065811ce6ad2578aa98fac27",
+  "size": 251155,
+  "version": "1.14.0"
 }
