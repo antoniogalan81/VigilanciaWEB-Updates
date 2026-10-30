@@ -1,5 +1,5 @@
 {
-  "build_commit": "7a6eb84",
+  "build_commit": "7896f73",
   "channel": "store-beta",
   "critical": false,
   "dependencies": {
@@ -11,10 +11,10 @@
   "min_updater_version": "1.0.0",
   "module": "remote",
   "notes": "",
-  "package": "remote-1.15.0.zip",
-  "released_utc": "2026-10-30T19:47:25Z",
+  "package": "remote-1.16.0.zip",
+  "released_utc": "2026-10-30T23:12:48Z",
   "schema_version": 1,
-  "sha256": "974e17f2d8c50cb470393e8ed94cf4a6c8ff88d1c7e5f6bb71ff4b2271c1e281",
-  "size": 191254,
-  "version": "1.15.0"
+  "sha256": "7e189598618150df6d3024438b59eaba4bd4366e7eb2df3d7640580e0fa01246",
+  "size": 199556,
+  "version": "1.16.0"
 }
